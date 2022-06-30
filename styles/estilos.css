@@ -967,7 +967,7 @@ hr {
     }
 
     .tatuajesTitulo{
-        margin: 0
+        margin: 0;
     }
 
     .banner2{
@@ -976,5 +976,15 @@ hr {
 
     .banner3{
         margin: 90px 0;
+    }
+
+    .imgTatuajes{
+        width: 400px;
+    }
+
+    .tatuajesH1{
+        letter-spacing: 10px;
+        margin-top: 50px;
+        margin-left: 17px;
     }
 }
