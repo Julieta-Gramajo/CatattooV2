@@ -976,12 +976,13 @@ hr {
     .solRojo {
         height: 100px;
         width: 100px;
+        margin: 90px 40px 0 40px;
     }
 
     .proyectoParrafo--2 {
         font-size: 0.8em;
         width: 230px;
-        margin-bottom: 130px;
+        margin-bottom: 120px;
     }
 
     .cafecito {
@@ -1103,7 +1104,7 @@ hr {
     }
 
     .tatuajesTitulo{
-        margin: 0
+        margin: 0;
     }
 
     .banner2{
@@ -1112,5 +1113,15 @@ hr {
 
     .banner3{
         margin: 90px 0;
+    }
+
+    .imgTatuajes{
+        width: 400px;
+    }
+
+    .tatuajesH1{
+        letter-spacing: 10px;
+        margin-top: 50px;
+        margin-left: 17px;
     }
 }
