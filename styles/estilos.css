@@ -77,8 +77,20 @@ body {
     text-align: center;
     background: rgb(255, 255, 255);
     background: linear-gradient(45deg, rgba(255, 255, 255, 0) 10%, rgba(227, 184, 149, 0.1) 90%);
+    background-image: url("../images/fondoSombras.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
+/* .fondoSombras {
+    background-image: url("../images/fondoSombras.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+} */
 
 .main__images {
     display: flex;
