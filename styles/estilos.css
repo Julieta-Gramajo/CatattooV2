@@ -1108,6 +1108,138 @@ hr {
         margin-right: auto;
         margin-top: 50px;
     }
+
+    /* Proyecto sombras */
+    
+    .proyectoTitulo {
+        font-size: 1.2em;
+        margin: 0 10px;
+    }
+    
+    .sol {
+        width: 25px;
+    }
+
+    .video {
+        width: 340px;
+        height: 191.2px;
+        margin-top: 70px;
+    }
+    
+    .proyectoSubtitulo--1 {
+        font-size: 1.0em;
+    }
+
+    .proyectoSubtitulo--2 {
+        font-size: 1.0em;
+        margin: 0 0 0 10px;
+    }
+
+    .proyectoParrafo--1 {
+        font-size: 0.6em;
+        width: 340px;
+        line-height: 20px;
+        margin: 70px auto;
+    }
+
+    .proyectoSubtitulo--3 {
+        font-size: 1.0em;
+        margin-bottom: 60px;
+    }
+
+    .proyectoSubtitulo--4 {
+        font-size: 1em;
+        width: 110px;
+    }
+
+    .proyectoSubtitulo--5 {
+        font-size: 1em;
+        width: 110px;
+    }
+
+    .sol--2 {
+        margin: 5px 30px;
+        width: 50px;
+        height: 50px;
+    }
+
+    .flecha {
+        width: 250px;
+    }
+
+    .main__lineaTiempo {
+        margin-top: 50px;
+    }
+
+    .texto__izquierda {
+        font-size: 0.6em;
+        width: 135px;
+        margin: 25px 0 55px 0;
+    }
+
+    .texto__derecha {
+        font-size: 0.6em;
+        width: 135px;
+        margin-bottom: 35px;
+    }
+
+    .proyectoSubtitulo--rojoIzquierda {
+        font-size: 1.2em;
+        margin-top: 22px;
+    }
+
+    .proyectoSubtitulo--amarilloIzquierda {
+        font-size: 1.2em;
+        margin-bottom: 35px;
+    }
+
+    .lineaTiempo {
+        margin: 50px 20px 120px 20px;
+        width: 30px;
+    }
+
+    .proyectoSubtitulo--rojoDerecha {
+        font-size: 1.2em;
+        margin: 65px 0 50px 0;
+    }
+
+    .proyectoSubtitulo--amarilloDerecha {
+        font-size: 1.2em;
+        margin: 48px 0 70px 0;
+    }
+
+    .slideNativas {
+        margin-top: -30px;
+    }
+
+    .numero {
+        font-size: 6em;
+        margin-bottom: 70px;
+        margin-top: -40px;
+    }
+
+    .solRojo {
+        height: 70px;
+        width: 70px;
+        margin: 90px 5px 0 5px;
+    }
+
+    .proyectoParrafo--2 {
+        font-size: 0.6em;
+        width: 111px;
+        margin-bottom: 60px;
+        height: 101px;
+        padding-bottom: 10px;
+    }
+
+    .cafecito {
+        font-size: 1.2em;
+        width: 340px;
+    }
+
+    .borderTop {
+        width: 100px;
+    }
 }
 
 @media screen and (max-width: 424px) {
