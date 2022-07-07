@@ -616,6 +616,7 @@ hr {
     text-align: center;
     font-weight: 700;
     width: 493px;
+    text-decoration: none;
 }
 
 .borderTop {
@@ -989,6 +990,7 @@ hr {
         font-size: 1.6em;
         letter-spacing: 5px;
         width: 493px;
+        
     }
 
     .borderTop {
