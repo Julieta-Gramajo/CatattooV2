@@ -1274,4 +1274,9 @@ hr {
         margin-top: 50px;
         margin-left: 17px;
     }
+
+    /* tatuajes */
+    .main-carousel div img{
+        width: 350px;
+    }
 }
