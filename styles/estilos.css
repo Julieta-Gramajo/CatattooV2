@@ -297,6 +297,21 @@ footer div a {
 
 /* TATUJES */
 
+.cell img{
+    width: 430px;
+    height: 620px;
+}
+
+.tatu img{
+    width: 270px;
+    height: 380px;
+}
+
+.nati img{
+    width: 450px;
+    height: 320px;
+}
+
 .banner{
     margin: 50px 0;
 }
