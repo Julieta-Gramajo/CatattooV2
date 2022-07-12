@@ -317,18 +317,22 @@ footer div a {
 }
 
 .banner2{
-    margin: 200px 0;
+    margin: 150px 0;
 }
 
 .banner3{
     margin: 150px 0;
 }
 
+.banner4{
+    margin: 80px 0;
+}
+
 .tatuajesTitulo{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 150px 0;
+    margin: 120px 0;
 }
 
 .tatuajesTitulo h1{
@@ -1293,5 +1297,20 @@ hr {
     /* tatuajes */
     .main-carousel div img{
         width: 350px;
+    }
+
+    .cell img{
+        width: 430px;
+        height: 550px;
+    }
+    
+    .tatu img{
+        width: 270px;
+        height: 380px;
+    }
+    
+    .nati img{
+        width: 450px;
+        height: 320px;
     }
 }
